@@ -1,0 +1,21 @@
+# 快乐8预测系统依赖
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+requests>=2.31.0
+
+# Streamlit 相关依赖（通常自动安装，但显式声明更安全）
+altair>=4.0
+blinker>=1.5
+cachetools>=5.5
+click>=7.0
+gitpython>=3.0
+pillow>=7.1
+pydeck>=0.8
+protobuf>=3.20
+pyarrow>=7.0
+tenacity>=8.0
+toml>=0.10
+tornado>=6.0
+typing-extensions>=4.10
+watchdog>=2.1
